@@ -1,5 +1,4 @@
-# bounce-project
-# NASA Data Explorer - Backend
+# bounce-project - Backend
 
 This is the backend for the **NASA Data Explorer** application. It is built using **Node.js** and **Express** and acts as an intermediary between the React frontend and NASA's Open APIs. The backend fetches data from NASA's APIs and serves it to the frontend.
 
